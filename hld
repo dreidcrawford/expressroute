@@ -1,2 +1,11 @@
-# What is ExpressRoute?
-asdfasdf
+---
+title: About ExpressRoute virtual network gateways - Azure| Microsoft Docs
+description: Learn about virtual network gateways for ExpressRoute. This article includes information about gateway SKUs and types.
+services: expressroute
+author: cherylmc
+
+ms.service: expressroute
+ms.topic: conceptual
+ms.date: 11/13/2018
+ms.author: mialdrid
+ms.custom: seodec18
